@@ -1,0 +1,9 @@
+{
+  "connect.joining": "",
+  "menu.disconnect": "§f<shift:-15><shift:-256><glyph:game_menu><shift:-256>",
+  "menu.returnToGame": "Vissza a játékhoz",
+  "menu.game": "<glyph:logo>",
+  "item.dyed": "",
+  "container.inventory": " Inventory",
+  "resourcePack.server.name": "VulcanityPack"
+}
